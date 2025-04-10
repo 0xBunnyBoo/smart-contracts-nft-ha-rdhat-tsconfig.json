@@ -1,0 +1,1 @@
+# smart-contracts-nft-ha-rdhat-tsconfig.json
